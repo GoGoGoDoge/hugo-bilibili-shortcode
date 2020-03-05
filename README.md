@@ -1,4 +1,4 @@
-# hugo-bilibili-shortcode
+# hugo-custom-shortcode
 Add Bilibili Shortcode to Hugo
 
 ## How to use
@@ -11,7 +11,7 @@ In your content markdown file, you can then
 ```
 
 ## Site Example
-https://gogodoge.com/posts/custom_shortcode/
+https://gogodoge.com/post/custom_shortcode/
 
 ## Snapshot
 ![snapshot](images/example.png)
