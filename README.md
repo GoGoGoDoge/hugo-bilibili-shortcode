@@ -7,7 +7,7 @@ Download the layouts/shortcodes/bilibili.html file to your local project with sa
 ## Example
 In your content markdown file, you can then
 ```
-{{< bilibili aid=“61016858” cid="123">}}
+{{< bilibili aid=52631606 >}}
 ```
 
 ## Site Example
